@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lillyes lamentations, or Englands feigned prophet discovered: being a brief narration of the severall proceedings of our famous country-man Mr. William Lilly the star-gazer. Containing several passages since the beginning of these times of reformation; together with many other tricks of art, and magical quillits, used by our aforesaid supposed prophet.</title>
+            <title>Lillyes lamentations.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88276</idno><idno type="EEBO-CITATION">99865898</idno>
+  <idno type="VID">166357</idno>
+  <idno type="EEBO-PROQUEST">2240903713</idno>
+  
+            <idno type="STC">Wing L2206</idno>
+            <idno type="STC">Thomason E681_9</idno>
+            <idno type="STC">ESTC R206792</idno>
+            <idno type="PROQUEST">99865898</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865898e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166357)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 105:E681[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lillyes lamentations, or Englands feigned prophet discovered: being a brief narration of the severall proceedings of our famous country-man Mr. William Lilly the star-gazer. Containing several passages since the beginning of these times of reformation; together with many other tricks of art, and magical quillits, used by our aforesaid supposed prophet.</title>
+                  <title>Lillyes lamentations.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Eeles,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nou. 12.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lilly, William, 1602-1681 --  Early works to 1800.</term>
+               <term type="topical_term">Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166357:1"/>
+            <p>Lillyes Lamentations, OR, Englands feigned PROPHET DISCOVERED: Being a brief Narration of the severall proceedings of our Fa<g ref="char:EOLhyphen"/>mous Country-man Mr. <hi>William Lilly</hi> the Star-gazer.</p>
+            <p>Containing Several passages since the beginning of these Times of <hi>REFORMATION;</hi> Together with many other Tricks of Art, and Magical Quillits, used by our aforesaid supposed <hi>Prophet.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut of anthropomorphized owl writing at a desk</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Eeles.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166357:2"/>
+            <pb n="3" facs="tcp:166357:2"/>
+            <head>Lil-lies Lamentaitons, OR, <hi>ENGLANDS feigned Prophet</hi> DISCOVERED.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ell <hi>Lilly,</hi> well; I told thee of this before, hast thou not now brought thy <hi>Hogges</hi> to a fair Market; You, Mr. <hi>Star<g ref="char:EOLhyphen"/>gazer,</hi> It is you that I speak to, you that were alwayes so ready to impeach honest <hi>Clergy-men,</hi> and others that had a great deal more ho<g ref="char:EOLhyphen"/>nesty, then ever thou hadst either Wit or Manners, and behold thou art now upon the stage thy self, not onely likely to become the the spe<g ref="char:EOLhyphen"/>ctacle of thy own Countrey, but the reproach of the the whole World, and in time, thou mayst be made an <hi>Example</hi> to all such deluding <hi>Sorcerers</hi> as thou art; for most commonly, the last Act payes for all.</p>
+            <p>A wise man would have thought that thou hadst pro<g ref="char:EOLhyphen"/>ved thy self Fool enough about the last <hi>Great Ecclipse</hi> of <hi>March</hi> last, otherwise called <hi>Black-Munday,</hi> and not to have
+<pb n="4" facs="tcp:166357:3"/> gone on still in ignorance; O lump of impudence, to de<g ref="char:EOLhyphen"/>lude the people, and in the end to deceive thy owne soule.</p>
+            <p>Where was now thy Familiar? or in plain termes, where was the Devil? that hath for a long time beene so attendant at thy elbow to smooth thee up in igno<g ref="char:EOLhyphen"/>rance, where I say was he? that thou couldest have no notice given of this disaster, <hi>Will?</hi> But what shall I say? there is an old Proverb farre more credible then any of thy Predictions, which saith, <hi>Hee that is born to be hangd shall nere be drown'd,</hi> and it was verified by certain Gen<g ref="char:EOLhyphen"/>tlemen, that you gave it out, That you should be hangd, and for my part I heartily wish that God may keep thee from all better fortunes, and then happily that may be the end of all: I must confess there is one passage in the beginning of thy New Almanack very observable, <hi>viz.</hi> That thou art once more come to the publike View, and for any thing that I know, it may be thy last, if the Devil do not misse of his due.</p>
+            <p>Therefore consider with thy self, and think what became of thy Predecessors, <hi>viz.</hi> Doctor <hi>Faustus,</hi> Friar <hi>Bacon, Bunge, Vandermast,</hi> the Witch of <hi>Endor,</hi> Doctor <hi>Lamb,</hi> and divers others, who of late dayes have beene made publike Examples, and if thou findest that any of these did ever get any thing by it, but an expectation of woe and misery, and the Devil to boot, then go on, o<g ref="char:EOLhyphen"/>therwise repent and be hang'd, and now thou art so hap<g ref="char:EOLhyphen"/>pily fallen into the hands of those that I hope will teach thee better manners, call upon thy great God <hi>Ptolomy, Tycho Brache, Regiomontanus, Origanus,</hi> and the Devill and all, and see if they can deliver thee out of the hands of the mighty; No, no, Mr. <hi>Gripe-Conscience,</hi> so sure as thy Villany shall be discovered, so sure shall not sinne go unpunished.</p>
+            <p>About <hi>February</hi> next this Good-man Figure-flinger tells us, that Angels of Gold please the Saints of the Earth; I must confess such Saints as he make Gods of
+<pb n="5" facs="tcp:166357:3"/> such Angels, but it is very like before that time a Hempen string may become him better.</p>
+            <p>And about <hi>March</hi> he saith the Lawyer will begin to get ground; <hi>A cunning Knave needs no Broaker;</hi> for had he not feared the Lawyers joyning with the Priest against himself, he would haue served him with the sawce he did last year.</p>
+            <p>It would make an honest man laugh to see how this fool hath made an Asse of himself since these times of REFORMATION, only to please the <hi>Rich,</hi> deceive the ignorant, &amp; befool himself; One thing indeed he was very excellent at, to <hi>bewitch a mans money out of his pocket.</hi>
+            </p>
+            <p>A certain <hi>Grasier,</hi> for a couple of <hi>Cowes</hi> that were stray<g ref="char:EOLhyphen"/>ed from the place where he had disposed of them, was ad<g ref="char:EOLhyphen"/>vised by an intimate Friend of his, to go to Mr. <hi>Lilly</hi> (a man better known by his Name then his honesty) to see if he could hear of his Cowes, and comming to this <hi>Figer-Casters House</hi> (where he was willingly entertained, more for his money then any thing else) propounded his Que<g ref="char:EOLhyphen"/>stion; so Mr. <hi>Lilly,</hi> having an old-fashiond <hi>Figure</hi> before him, after a little perusall thereof, shaking his Cocks<g ref="char:EOLhyphen"/>combe three or four times, at last told the <hi>Grasier,</hi> That his <hi>Cawes</hi> were fallen into the hands of a <hi>Butcher,</hi> and more<g ref="char:EOLhyphen"/>over <hi>(quoth Lilly)</hi> thou shalt see them hang up in Butchers shops, if thou canst but know them; Yet neverthelesse the honest <hi>Grasier,</hi> at his comming home, found his <hi>Cowes</hi> in his <hi>Neighbours Yeard;</hi>
+               <q>O hellish delusion, an unheard of way, to cheat men of their money.</q>
+            </p>
+            <p>Shortly after, Mr. <hi>Lilly</hi> riding out <hi>of Towne</hi> to Recreate himself at his Countrey-house, did meet with an Old <hi>Countrey-man</hi> by a <hi>Forrest</hi> side, and demanding of the <hi>Coun<g ref="char:EOLhyphen"/>trey-man</hi> how far it was to the next <hi>Towne?</hi> The <hi>Countrey-man</hi> told him, That it was but a very little way, never<g ref="char:EOLhyphen"/>thelesse, quoth he, if you make not the more haste, you
+<pb n="6" facs="tcp:166357:4"/> may chance to be wet to the skin, before you come there; for there is a shower of Rain a comming; How dost thou know that quoth <hi>Lilly;</hi> Ho, quoth the old man, do you not see yonder Dun Cow; Yes, quoth <hi>Lilly;</hi> Well, said the old man, when she scratcheth her right eare with her left foot, then be sure it will rain, which thing hath made Mr. <hi>Lilly</hi> so much out of conceit with his own judg<g ref="char:EOLhyphen"/>ment for weather, that he hath turned it all over to his brother <hi>Booker.</hi>
+            </p>
+            <p>Mr. <hi>Lilly</hi> walking over <hi>Covent-Garden</hi> one night late, did meet with a light-skirted, silver-lac'd Gentlewoman who demanded of him, if he would drink a pint of wine, and he as willing to accept, as she was to proffer, they went lovingly to the Garter Tavern in <hi>Long-Acre,</hi> where after the Figure-Monger had made himself known, shee presently desired him to erect a Figure, to see who should pay for that pint of Wine, so he being busie in the midst of his Calculations, she was imployed at the bottome of his pockets, and in the conclusion left him to passe judge<g ref="char:EOLhyphen"/>ment by himself; so he found the woman was a pick<g ref="char:EOLhyphen"/>pocket Whore, and he must pay for the pint of Wine himself.</p>
+            <p>So fearing lest his Art should fall, through so many just aspersions, he collected a new Book out of I do not know how many old fashioned Authors, intituled, <hi>An Introduction to Astrologie,</hi> where a man may not onely learn to cheat others, but may also deceive himself of his own soul.</p>
+            <p>Well but now Mr. Scheam-setter must be call'd to an account for his Knavery; nay, he must prove the lawful<g ref="char:EOLhyphen"/>ness of his Art; look to it now <hi>Will,</hi> and give the Devil notice to procure as much assistance as possible may be, for if this work goes forward, a Witch in <hi>England</hi> will be worth all <hi>Sion-Colledge,</hi> and K. <hi>Henry</hi> the sevenths Chap<g ref="char:EOLhyphen"/>pel to boot.</p>
+            <p>Nay, there is already chosen seven honest hearted Or<g ref="char:EOLhyphen"/>thodox Divines, men of renown, to sift, search, and find
+<pb n="7" facs="tcp:166357:4"/> out the illegality of his Devillsh mistrie, and according as they finde it, so they are to deal with it; if unlawfull, then a fire by the common Hangman is to be made, and all his Books to be burnt; I wish as speedy an end to all his dishonesty.</p>
+            <p>A <hi>West-Country</hi> yeoman comming up to the Terme, and going to <hi>Westminster-Hall</hi> with an Apparition of <hi>Angells,</hi> thinking thereby to unloose the dumb tongue of his un<g ref="char:EOLhyphen"/>brib'd <hi>Lawyer;</hi> but by the way gaping at the <hi>New Exchange</hi> on the fine <hi>Gew-gaws</hi> there, a Cut-purse finding his oppor<g ref="char:EOLhyphen"/>ty, eas'd him of his Purse, and twenty <hi>Nobles</hi> in ready mo<g ref="char:EOLhyphen"/>ney, which the poor <hi>Countrey-man</hi> never miss'd till he came to <hi>Westminster,</hi> where feeling for his purse, he found nothing but the <hi>strings,</hi> which he had fastened to the <hi>Wast<g ref="char:EOLhyphen"/>band</hi> of his <hi>Breeches,</hi> which made the poor <hi>Country-man</hi> in such a dismall <hi>Agony</hi> for his <hi>Purse,</hi> that he run back again like a <hi>Mad-man,</hi> but all in vain, he repaired to a coun<g ref="char:EOLhyphen"/>try man of his in <hi>Fleet-street,</hi> who hearing his pittifull complaint, lent him forty Shillings, and and advised him early the next morning to go to Mr. <hi>Lilly,</hi> and give him Five Shillings to tell him who had his Purse, which the Counttey-man willingly consented unto, and got one to go with him to Mr. <hi>Lillies</hi> House neer the <hi>May-pole</hi> in the <hi>Strand,</hi> where they were no sooner come to the Door, but they found the same <hi>surreverence</hi> all to Be— where they had no sooner knocked, but down comes that profound <hi>Ass-strologer</hi> Mr. <hi>Lilly,</hi> who opening the door, and seeing it in that shitten <hi>case,</hi> began to <hi>execrate</hi> and <hi>curse</hi> those beast<g ref="char:EOLhyphen"/>ly Knaves that did it; vowing, <hi>If he did but know who did him that nasty trick, he would make them</hi> Examples <hi>to all such Roagues</hi> so long as they liv'd; Nay quoth the Countrey-man, if he cannot tell who beshit his door, he can as well be hang'd as tell me who had my <hi>Purse,</hi> and so went his way.</p>
+            <pb n="8" facs="tcp:166357:5"/>
+            <p>Yet nevertheless, thus much for thy comfort, if in <hi>Case,</hi> the honest Priest do finde thee a <hi>Wizzad,</hi> a <hi>Witch,</hi> a <hi>Sorcerer</hi> or <hi>Sooth-sayer,</hi> as I make no great question but he will, and do burn all thy Bookes, and confiscate all thy Estate, it is no matter, thou art a happy man if thou escapst with thy life, for then thou mayest go into another Coun<g ref="char:EOLhyphen"/>trey where thou art not known, and there turn <hi>Fortune<g ref="char:EOLhyphen"/>teller,</hi> —for now—
+<q>
+                  <lg>
+                     <l>Great <hi>Jove</hi> with <hi>Mars</hi> doth now combine,</l>
+                     <l>
+                        <hi>Luna</hi> beholds them with a friendly trine,</l>
+                     <l>Subtill <hi>Mercury</hi> must be now Combust,</l>
+                     <l>No more deceit, for <hi>Lilly</hi> down thou must,</l>
+                  </lg>
+                  <lg>
+                     <l>Oh Witch of <hi>Endor,</hi> wee'l no more</l>
+                     <l>Your Altar, nor your shrine adore:</l>
+                     <l>For pack thou must with grief and woe,</l>
+                     <l>And so must <hi>William Lilly</hi> too.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>It is very observable, That he being brought before the Committee, he could not answer them in La<g ref="char:EOLhyphen"/>tine, but hummd, hawd, spitt, or had much adoe to speak Rea<g ref="char:EOLhyphen"/>son or sense; which makes many wise men believe, that his Famili<g ref="char:EOLhyphen"/>ar (now he is in hold) is departed from him, as from all other Witches.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
